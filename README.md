@@ -1,6 +1,6 @@
  &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp; &ensp;<img src= "https://dunesfactory.com/wp-content/uploads/2020/04/Dunes_development.gif">
 <h1 align="center">Hi 👋, I'm Pratyush Kesarwani</h1>
-<h3 align="center">A Passionate Frontend Developer from India</h3>
+<h3 align="center">A Passionate Full Stack Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pk170970&label=Profile%20views&color=0e75b6&style=flat" alt="pk170970" /> </p>
 
